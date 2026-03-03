@@ -11,7 +11,7 @@
 [![License](https://img.shields.io/badge/License-MIT-6c63ff?style=flat-square)](LICENSE)
 [![Tests](https://img.shields.io/badge/Tests-pytest-green?style=flat-square)](tests/)
 
-[**Live Demo**](#) · [**Report a Bug**](https://github.com/yourusername/nexthire/issues) · [**Request a Feature**](https://github.com/yourusername/nexthire/issues)
+[**Live Demo**](https://nexthire-test.streamlit.app/) · [**Report a Bug**](https://github.com/yourusername/nexthire/issues) · [**Request a Feature**](https://github.com/yourusername/nexthire/issues)
 
 </div>
 
