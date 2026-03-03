@@ -1,0 +1,42 @@
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Test & coverage
+.pytest_cache/
+htmlcov/
+.coverage
+coverage.xml
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Database (runtime cache, not source data)
+data/nexthire.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Uploaded files (never store user data)
+uploads/
+tmp/
